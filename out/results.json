@@ -1,0 +1,29 @@
+{
+  "protocol_seal": "dfac3893",
+  "master_seed": 20260814,
+  "cells_ran": 0,
+  "episodes": 60,
+  "informativeness": {
+    "pooled_no_defense_asr": 0.0,
+    "pooled_n": 40,
+    "gate_pass": false
+  },
+  "summary": {
+    "frontier|0.7|no-defense": {
+      "sec_n": 40,
+      "asr": 0.0,
+      "asr_ci": [
+        0,
+        0.08762453925039232
+      ],
+      "util_n": 20,
+      "false_block": 0.0,
+      "false_block_ci": [
+        0,
+        0.16113012549493322
+      ],
+      "voided": 0
+    }
+  },
+  "wall_seconds": 191.3
+}

@@ -1,0 +1,8 @@
+  ran frontier t0.7 no-defense r1 workspace: 600 eps (553 void)
+  ran frontier t0.7 no-defense r1 slack: 126 eps (126 void)
+  ran frontier t0.7 no-defense r1 travel: 160 eps (160 void)
+  ran frontier t0.7 no-defense r1 banking: 160 eps (160 void)
+  ran frontier t0.7 no-defense r2 workspace: 600 eps (600 void)
+  ran frontier t0.7 no-defense r2 slack: 126 eps (126 void)
+  ran frontier t0.7 no-defense r2 travel: 160 eps (160 void)
+  ran frontier t0.7 no-defense r2 banking: 160 eps (160 void)
