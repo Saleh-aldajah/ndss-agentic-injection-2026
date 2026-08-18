@@ -23,7 +23,8 @@ solely on the fixed-harness Gemini measurements and the calibration control belo
 **Calibration control (positive).** To rule out harness inertness as an explanation
 for any null result, we replicated the identical attack through the identical code path
 against the 2024-era snapshot gpt-4o-2024-05-13 on the known-susceptible workspace
-user_task_0 injections: **4/5 successful injections at both t=0.0 and t=0.7**.
+user_task_0 injections: **9/10 successful injections (t=0.0: 5/5, t=0.7: 4/5)**;
+per-episode records in `out_calibration.jsonl`.
 The harness lands attacks wherever models are susceptible; null results are model
 properties, not setup artifacts.
 
