@@ -1,1 +1,4 @@
 __pycache__/
+ndss_env.sh
+*.key
+*.pem
